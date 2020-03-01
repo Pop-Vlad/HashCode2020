@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee7d9577-ac58-4aaf-90b0-38427fab1643" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashCode2020.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a.txt_output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b.txt_output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c.txt_output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d.txt_output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e.txt_output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/f.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/f.txt_output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HashCode2020/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HashCode2020/Library.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HashCode2020/META-INF/HashCode2020.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HashCode2020/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HashCode2020/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trash.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Y4OSi0jnWLNRHJ7N5CG4TtmOSz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mpp" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HashCode2020" />
+      <option name="VM_PARAMETERS" value="-Xms8096M -Xmx8096M" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee7d9577-ac58-4aaf-90b0-38427fab1643" name="Default Changelist" comment="" />
+      <created>1582198401052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582198401052</updated>
+      <workItem from="1582198405535" duration="801000" />
+      <workItem from="1582214848496" duration="14356000" />
+      <workItem from="1582273367062" duration="2310000" />
+      <workItem from="1582290647962" duration="5499000" />
+      <workItem from="1582357322525" duration="7266000" />
+      <workItem from="1582401646598" duration="2365000" />
+      <workItem from="1582632350776" duration="601000" />
+      <workItem from="1582734842771" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="675" y="112" key="#Java_Type_Renderers" timestamp="1582296016010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="675" y="112" key="#Java_Type_Renderers/0.0.1920.1040@0.0.1920.1040" timestamp="1582296016010" />
+    <state x="793" y="375" key="#com.intellij.debugger.actions.ViewTextAction" timestamp="1582295802359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="793" y="375" key="#com.intellij.debugger.actions.ViewTextAction/0.0.1920.1040@0.0.1920.1040" timestamp="1582295802359" />
+    <state x="417" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582274696192">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="417" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582274696192" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1582402286285">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582402286285" />
+    <state x="508" y="275" key="#org.jetbrains.debugger.memory.view.InstancesWindow" timestamp="1582273450835">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="508" y="275" key="#org.jetbrains.debugger.memory.view.InstancesWindow/0.0.1920.1040@0.0.1920.1040" timestamp="1582273450835" />
+    <state x="555" y="178" key="#scores" timestamp="1582273414992">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="555" y="178" key="#scores/0.0.1920.1040@0.0.1920.1040" timestamp="1582273414992" />
+    <state x="718" y="223" key="#xdebugger.evaluate" timestamp="1582273427777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="223" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1582273427777" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1582734858435">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582734858435" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1582404025115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582404025115" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1582404025115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582404025115" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1582404025115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582404025115" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1582404025115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582404025115" />
+    <state width="1877" height="263" key="GridCell.Tab.1.bottom" timestamp="1582369939016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="263" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582369939016" />
+    <state width="1877" height="263" key="GridCell.Tab.1.center" timestamp="1582369939016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="263" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582369939016" />
+    <state width="1877" height="263" key="GridCell.Tab.1.left" timestamp="1582369939016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="263" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582369939016" />
+    <state width="1877" height="263" key="GridCell.Tab.1.right" timestamp="1582369939016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="263" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582369939016" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="scores" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
